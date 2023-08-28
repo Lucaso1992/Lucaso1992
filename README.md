@@ -1,4 +1,4 @@
-### 👋 Hi there, I´m Lucas
+#### 👋 Hi there, I´m Lucas
 
 🚀  Full Stack Developer with a strong Front End focus, driven by a passion for crafting user-centric experiences and robust applications.
 
