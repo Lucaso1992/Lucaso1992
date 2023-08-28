@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on finding a great job
 - 🌱 I’m currently learning to dominate python
 - 📫 How to reach me: solarilucas92@gmail.com | [Linkedin](linkedin.com/in/lucas-solari) 
-- ⚡ Fun fact: I´m fun!!!
+- ⚡ Fun fact: I´m fun!!
 
 ### 💻 Tech Stack
 <div >
