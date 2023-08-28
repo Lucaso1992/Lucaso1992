@@ -3,7 +3,7 @@
 ### 🚀 Full Stack Developer with a strong focus in Front End.
 - 🔭 I’m currently working on personal projects & finding a great job
 - 📫 How to reach me: solarilucas92@gmail.com | [Linkedin](linkedin.com/in/lucas-solari) 
-- ⚡ Fun fact: I´m fun.
+- ⚡ Fun fact: I´m fun
 
 ### 💻 Tech Stack
 <div >
