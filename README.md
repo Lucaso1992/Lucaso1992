@@ -1,6 +1,6 @@
 # 👋 Hi there, I´m Lucas
 
-### 🚀 Full Stack Developer with a strong Front End focus.
+### 🚀 Full Stack Developer with a strong Front-End focus.
 - 🔭 I’m currently working on finding a great job
 - 🌱 I’m currently learning to dominate python
 - 📫 How to reach me: solarilucas92@gmail.com | [Linkedin](linkedin.com/in/lucas-solari) 
