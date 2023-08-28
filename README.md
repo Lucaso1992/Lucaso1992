@@ -8,7 +8,8 @@
 - ⚡ Fun fact: I´m fun 
 
 ### 💻 Tech Stack
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg]
+![image](https://github.com/Lucaso1992/Lucaso1992/assets/128732015/7e91cd50-250c-43ad-9630-85deeed7dd8b)
+
 
 
 
