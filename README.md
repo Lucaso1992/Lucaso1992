@@ -7,9 +7,7 @@
 - ⚡ Fun fact: I´m fun 
 
 ### 💻 Tech Stack
-- hola
-- hola
-- -hola
+
 
 
 
