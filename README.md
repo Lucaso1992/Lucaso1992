@@ -7,6 +7,8 @@
 - 📫 How to reach me: solarilucas92@gmail.com | [Linkedin](linkedin.com/in/lucas-solari) 
 - ⚡ Fun fact: I´m fun 
 
-#### 💻 Tech Stack
-![CSS Logo](https://example.com/css-logo.png)
+### 💻 Tech Stack
+![image](https://github.com/Lucaso1992/Lucaso1992/assets/128732015/715ee92b-96d4-4a5f-8004-b3b790420db9)
+
+
 
