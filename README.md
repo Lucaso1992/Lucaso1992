@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I´m fun 
 
 ### 💻 Tech Stack
-
+(https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png)
 
 
 
