@@ -3,6 +3,7 @@
 ### 🚀 Front End Developer.
 - 🔭 I’m currently working as freelance
 - 📫 How to reach me: solarilucas92@gmail.com | [Linkedin](linkedin.com/in/lucas-solari) 
+- 🌍 www.lucassolari.com
 - ⚡ Fun fact: I´m fun
 
 ### 💻 Tech Stack
