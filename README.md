@@ -1,7 +1,7 @@
 # 👋 Hi there, I´m Lucas
 
-### 🚀 Front End Developer.
-- 🔭 I’m currently working as freelance & Teacher Assistant at 4Geeks Academy Spain
+### 🚀 Full Stack Developer.
+- 🔭 I’m currently working freelance & as Teacher Assistant at 4Geeks Academy Spain
 - 📫 How to reach me: solarilucas92@gmail.com | [Linkedin](linkedin.com/in/lucas-solari) 
 - 🌍 www.lucassolari.com
 - ⚡ Fun fact: I´m fun
