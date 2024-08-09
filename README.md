@@ -1,7 +1,7 @@
 # 👋 Hi there, I´m Lucas
 
 ### 🚀 Full Stack Developer.
-- 🔭 I’m currently working freelance & as Mentor and Teacher Assistant at 4Geeks Academy Spain
+- 🔭 I’m currently working freelance and as Mentor & Teacher Assistant at 4Geeks Academy Spain
 - 📫 How to reach me: solarilucas92@gmail.com | [Linkedin](linkedin.com/in/lucas-solari) 
 - 🌍 www.lucassolari.com
 - ⚡ Fun fact: I´m fun
