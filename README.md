@@ -1,7 +1,7 @@
 # 👋 Hi there, I´m Lucas
 
-### 🚀 Full Stack Developer.
-- 🔭 I’m currently working freelance & as Full Stack Mentor at 4Geeks Academy Spain
+### 🚀 Analytics Engineer | Full Stack Developer.
+- 🔭 I’m currently working as Analytics Engineer at [VML The Cocktail](https://vml-thecocktail.com/)
 - 📫 How to reach me: solarilucas92@gmail.com | [Linkedin](linkedin.com/in/lucas-solari) 
 - 🌍 www.lucassolari.com
 - ⚡ Fun fact: I´m fun
