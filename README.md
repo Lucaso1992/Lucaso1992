@@ -8,7 +8,7 @@
 
 ### 💻 Tech Stack
 <div >
-	<img width="40" src="https://images.seeklogo.com/logo-png/43/2/google-analytics-2022-logo-png_seeklogo-435447.png" alt="HTML" title="HTML"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
